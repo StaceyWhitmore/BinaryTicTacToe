@@ -18,4 +18,3 @@ ____|____|____         ____|____|____
 
 top-left to bottom-right Diagonal        = 273
 top-right to bottom-left Diagonal        = 84   
-`
