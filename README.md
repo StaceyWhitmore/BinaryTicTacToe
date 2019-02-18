@@ -4,7 +4,7 @@ both result in a 1 then the move is a winning move. This same logic is also used
 to block it's opponent from making a move (similar to a greedy algorithm); however, at this point the AI makes this a priority over going
 for an winning a move. So in future versions I will fix this defect in the AI but keep the current AI as an option for and "easy" mode.
 ```
-var winsArray = [7, 56, 448, 73, 146, 292, 273, 84];
+var winsArray = [7, 56, 448, 73, 146, 292, 273, 84];//contains the vals for the 8 possible win combinations.
 
                                       = 84
                                     /
